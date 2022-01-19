@@ -1,0 +1,121 @@
+body{
+
+    font-family:inherit;
+    background-color: #EEE;
+}
+.container{
+
+    background-color:#e4f9f5;
+    margin: 0 auto;
+    width: 1000px;
+    padding: 20px;
+
+}
+*{
+
+    margin:0;
+    padding: 0;
+}
+.header-img{
+    border-radius: 50%;
+    float: left;
+ 
+
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+.header-contact{
+
+    float: right;
+    padding: 20px;
+}
+.clear{
+
+    clear: both;
+}
+hr{
+
+    border:3px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.header-contact p a:hover{
+
+    color: tomato;
+    text-decoration: underline;
+  
+}
+.header-contact p a:active{
+    color: yellow;
+}
+.header-contact p a{
+
+    text-decoration: none;
+    font-weight: bold;
+}
+h1,h2,h3,h4.h5.h6{
+    color:#11999e;
+}
+.left-div{
+    float: left;
+    width: 30%;
+ 
+
+
+}
+.right-div{
+width: 70%;
+    float:left;
+   
+}
+.line{
+
+    width: 100%;
+border: 1px solid black;
+    margin: 20px auto;
+    border-bottom:none;
+  
+   
+
+}
+.content{
+  padding-bottom: 100px;
+}
+.education-section .right-div p a{
+    text-decoration: none;
+}
+.edu1{
+
+    float:left;
+    width: 35%;
+}
+.edu2{
+    float: right;
+    width: 35%;
+}
+footer{
+
+    background-color: black;
+    height: 70px;
+    text-align: center;
+ 
+    
+    
+}
+.ending a{
+    color: white;
+   
+  padding: 20px;
+    text-decoration: none;
+    margin-top: 30px;
+}
+.ending p{
+
+    color:white;
+  padding: 10px;
+
+
+}
